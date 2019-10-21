@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="DELETE">
+        <access>public</access>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>false</delete_access>
+        <extension_model/>
+        <is_extendable>false</is_extendable>
+        <label>Starbucks drink</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_58872_needit_starbucks_drink</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class/>
+        <sys_class_code/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-15 04:58:10</sys_created_on>
+        <sys_id>73e9b2b4db200010a0f7af26489619f1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Starbucks drink</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_db_object_73e9b2b4db200010a0f7af26489619f1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-15 04:58:10</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role display_value="x_58872_needit.starbucks_drink_user" name="x_58872_needit.starbucks_drink_user">8f0a3274db200010a0f7af2648961958</user_role>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>d35466f0db19ff8052cec5970596190a</instance_id>
+        <instance_name>dev85418</instance_name>
+        <name>sys_db_object_73e9b2b4db200010a0f7af26489619f1</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access>public</access><actions_access>false</actions_access><alter_access>false</alter_access><caller_access/><client_scripts_access>false</client_scripts_access><configuration_access>false</configuration_access><create_access>false</create_access><create_access_controls>true</create_access_controls><delete_access>false</delete_access><extension_model/><is_extendable>false</is_extendable><label>Starbucks drink</label><live_feed_enabled>false</live_feed_enabled><name>x_58872_needit_starbucks_drink</name><number_ref/><provider_class/><read_access>true</read_access><scriptable_table>false</scriptable_table><super_class/><sys_class_code/><sys_class_name>sys_db_object</sys_class_name><sys_class_path/><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-15 04:58:10</sys_created_on><sys_id>73e9b2b4db200010a0f7af26489619f1</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Starbucks drink</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_db_object_73e9b2b4db200010a0f7af26489619f1</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-15 04:58:10</sys_updated_on><update_access>false</update_access><user_role display_value="x_58872_needit.starbucks_drink_user" name="x_58872_needit.starbucks_drink_user">8f0a3274db200010a0f7af2648961958</user_role><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+        <payload_hash>-1491924553</payload_hash>
+        <record_name>Starbucks drink</record_name>
+        <reverted_from/>
+        <source>041646d7db100010a0f7af26489619d4</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-15 04:58:11</sys_created_on>
+        <sys_id>e70a76b4db200010a0f7af2648961920</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16dcdc7e1420000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-15 04:58:11</sys_updated_on>
+        <type>Table</type>
+        <update_guid>230a76b4ac200010b099b168ec2d1c20</update_guid>
+        <update_guid_history>230a76b4ac200010b099b168ec2d1c20:-1491924553</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-16 05:04:46</sys_created_on>
+        <sys_db_object display_value="" name="sys_db_object">sys_db_object</sys_db_object>
+        <sys_id>ccf212d31eb94383be6d339409d24f59</sys_id>
+        <sys_metadata>73e9b2b4db200010a0f7af26489619f1</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Starbucks drink</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_db_object_73e9b2b4db200010a0f7af26489619f1</sys_update_name>
+        <sys_update_version display_value="sys_db_object_73e9b2b4db200010a0f7af26489619f1">e70a76b4db200010a0f7af2648961920</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-16 05:04:46</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

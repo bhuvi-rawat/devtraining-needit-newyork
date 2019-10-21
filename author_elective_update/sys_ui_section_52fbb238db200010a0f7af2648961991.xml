@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="" section_id="52fbb238db200010a0f7af2648961991" sys_domain="global" table="x_58872_needit_starbucks_drink" version="3" view="">
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_58872_needit_starbucks_drink</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-10-15 05:06:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>52fbb238db200010a0f7af2648961991</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_58872_needit_starbucks_drink</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_ui_section_52fbb238db200010a0f7af2648961991</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-10-15 05:06:34</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>d35466f0db19ff8052cec5970596190a</instance_id>
+        <instance_name>dev85418</instance_name>
+        <name>sys_ui_section_52fbb238db200010a0f7af2648961991</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="52fbb238db200010a0f7af2648961991" sys_domain="global" table="x_58872_needit_starbucks_drink" version="3" view=""><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>x_58872_needit_starbucks_drink</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-15 05:06:34</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>52fbb238db200010a0f7af2648961991</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_58872_needit_starbucks_drink</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ui_section_52fbb238db200010a0f7af2648961991</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-15 05:06:34</sys_updated_on><sys_user/><title>true</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-911230789</payload_hash>
+        <record_name>Starbucks drink</record_name>
+        <reverted_from/>
+        <source>041646d7db100010a0f7af26489619d4</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-15 05:06:34</sys_created_on>
+        <sys_id>52fbb238db200010a0f7af2648961994</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16dcdcf8f420000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-15 05:06:34</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>12fbb23815200010acba377a39110d94</update_guid>
+        <update_guid_history>12fbb23815200010acba377a39110d94:-911230789</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-16 05:04:47</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>0868422c1f6b4c029b37a473ffae8161</sys_id>
+        <sys_metadata>52fbb238db200010a0f7af2648961991</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit_starbucks_drink</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="">73e9b2b4db200010a0f7af26489619f1</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ui_section_52fbb238db200010a0f7af2648961991</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_52fbb238db200010a0f7af2648961991">52fbb238db200010a0f7af2648961994</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-16 05:04:47</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

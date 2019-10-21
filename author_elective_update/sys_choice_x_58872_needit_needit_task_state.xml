@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="DELETE" field="state" table="x_58872_needit_needit_task" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Closed Incomplete</label>
+            <language>en</language>
+            <name>x_58872_needit_needit_task</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-04-19 03:51:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f5bd51d40f9af2000d030dbce1050e82</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-04-19 03:51:54</sys_updated_on>
+            <value>4</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <name>x_58872_needit_needit_task</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-04-05 19:50:44</sys_created_on>
+            <sys_id>4706ca13dbd00010a0f7af26489619e2</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_name>state</sys_name>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_choice_x_58872_needit_needit_task_state</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-04-19 03:51:54</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>d35466f0db19ff8052cec5970596190a</instance_id>
+        <instance_name>dev85418</instance_name>
+        <name>sys_choice_x_58872_needit_needit_task_state</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_choice action="INSERT_OR_UPDATE" field="state" table="x_58872_needit_needit_task" version="3"><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>state</element><hint/><inactive>false</inactive><label>Closed Incomplete</label><language>en</language><name>x_58872_needit_needit_task</name><sequence>3</sequence><sys_created_by>admin</sys_created_by><sys_created_on>2017-04-19 03:51:54</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>f5bd51d40f9af2000d030dbce1050e82</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2017-04-19 03:51:54</sys_updated_on><value>4</value></sys_choice><sys_choice_set action="INSERT_OR_UPDATE"><element>state</element><name>x_58872_needit_needit_task</name><sys_class_name>sys_choice_set</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2017-04-05 19:50:44</sys_created_on><sys_id>4706ca13dbd00010a0f7af26489619e2</sys_id><sys_mod_count>2</sys_mod_count><sys_name>state</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_choice_x_58872_needit_needit_task_state</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2017-04-19 03:51:54</sys_updated_on></sys_choice_set></sys_choice></record_update>]]></payload>
+        <payload_hash>-1915028117</payload_hash>
+        <record_name>x_58872_needit_needit_task.state</record_name>
+        <reverted_from/>
+        <source>041646d7db100010a0f7af26489619d4</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-21 07:02:02</sys_created_on>
+        <sys_id>a4ff06b6db600010a0f7af2648961977</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16ded1f6def0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-21 07:02:02</sys_updated_on>
+        <type>Choice list</type>
+        <update_guid>20ff06b68d600010208740b5e2b54677</update_guid>
+        <update_guid_history>20ff06b68d600010208740b5e2b54677:-1915028117,6cff06b64b600010788ad6f407054973:-950228775,e8ff06b60d600010e65c7af6ef0ae670:-1434074331,02f54613c8d00010ebcd3e7f540f90a3:283840424,86f546138ed00010786f04fb4270379f:1960910830,06f546137ed0001050396cc20a17c79c:1118168610,c33c4d4b69d0001080b997d87f8accbb:-819494391</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-21 07:02:03</sys_created_on>
+        <sys_db_object display_value="" name="sys_choice_set">sys_choice_set</sys_db_object>
+        <sys_id>4706ca13dbd00010a0f7af26489619e2</sys_id>
+        <sys_metadata>4706ca13dbd00010a0f7af26489619e2</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>state</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_choice_x_58872_needit_needit_task_state</sys_update_name>
+        <sys_update_version display_value="sys_choice_x_58872_needit_needit_task_state">a4ff06b6db600010a0f7af2648961977</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-21 07:02:03</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
